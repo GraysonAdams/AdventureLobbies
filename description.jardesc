@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Gray/Documents/Coding Workspace/Java/Testing/AdventureLobbies.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/adventure-lobbies/description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/adventure-lobbies/MANIFEST.MF" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/adventure-lobbies/description.jardesc"/>
+        <file path="/adventure-lobbies/plugin.yml"/>
+        <file path="/adventure-lobbies/.project"/>
+        <javaElement handleIdentifier="=adventure-lobbies/src"/>
+        <file path="/adventure-lobbies/MANIFEST.MF"/>
+        <file path="/adventure-lobbies/.classpath"/>
+    </selectedElements>
+</jardesc>

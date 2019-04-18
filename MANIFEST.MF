@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Sealed: true
+Class-Path: /home/tcafiles/users/GraysonA/libs/commons-io.jar /home/tcafiles/users/GraysonA/libs/commons-net.jar /home/tcafiles/users/GraysonA/libs/commons-dbutils.jar
+

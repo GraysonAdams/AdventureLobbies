@@ -1,0 +1,51 @@
+name: AdventureLobbies
+version: 2.0
+main: com.geekplaya.AdventureLobbies.AdventureLobbies
+commands:
+  end:
+    description: Ends the currently running lobby.
+    aliases: [quit]
+    usage: Syntax error! Type /<command>
+  info:
+    description: Displays information regarding the currently running lobby.
+    usage: Syntax error! Type /<command>
+  setspawn:
+    description: Sets the map spawn point.
+    usage: Syntax error! Type /<command>
+  spawn:
+    description: Teleports the player to the spawn.
+    usage: Syntax error! Type /<command>
+  home:
+    description: Teleports the player to their bed or the spawn.
+    usage: Syntax error! Type /<command>
+  heal:
+    description: Heals yourself or another player.
+    usage: Syntax error! Type /<command> [player]
+  invite:
+    description: Invite a player to the lobby.
+    permission: al.donor
+    usage: Syntax error! Type /<command> <player>
+  uninvite:
+    description: Invite a player to the lobby.
+    permission: al.donor
+    aliases: [remove]
+    usage: Syntax error! Type /<command> <player>
+  unfreeze:
+    description: Unfreezes all players.
+    permission: al.donor
+    usage: Syntax error! Type /<command>
+  reset:
+    description: Reloads map.
+    permission: al.owner
+    usage: Syntax error! Type /<command>
+  tppos:
+    description: Teleports a player to the specified coordinates.
+    permission: al.donor
+    usage: Syntax error! Type /<command> [player] <x> <y> <z>
+  help:
+    description: Gets list of commands.
+    usage: Syntax error! Type /<command> [page/command]
+  list:
+    description: Lists online players.
+    usage: Syntax error! Type /<command>
+ 
