@@ -5,3 +5,5 @@ Adventure Lobbies was a free server hosting service for Minecraft that let gamer
 Here is the [Bukkit](https://bukkit.org) plugin which powered it, written by high-school self.
 
 Not included, at this time, is the front-end, user-facing website that worked in unison with the Minecraft server-side code.
+
+[[https://github.com/GraysonAdams/AdventureLobbies/blob/master/pic.png]]
